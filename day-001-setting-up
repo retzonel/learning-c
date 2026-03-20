@@ -7,8 +7,9 @@
   - The program starts from the main fuction and compiles downwards
 
   ## Code i wrote
-  ```c
+```c
   #include <stdio.h>
+
   int main()
   {
       printf("stuff goes here!!!\n");
