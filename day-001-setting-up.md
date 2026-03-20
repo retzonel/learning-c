@@ -5,6 +5,8 @@
   - C is a low level language
   - It is not object oriented (sad for me as i have expirence in OO languages), but procedural
   - The program starts from the main fuction and compiles downwards
+  - i also learnt about comments "//" and "/**/"
+  - escape sequences e.g "\n" for new line in strings and "\t" for tab
 
   ## Code i wrote
 ```c
