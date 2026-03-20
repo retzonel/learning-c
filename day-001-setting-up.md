@@ -19,4 +19,4 @@
 ```
 
   ## Note
-    - the program returns 0 if it runs sucesfuly and 1 if it does'nt
+  - the program returns 0 if it runs sucesfuly and 1 if it does'nt
