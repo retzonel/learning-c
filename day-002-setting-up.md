@@ -30,6 +30,6 @@ int main()
 ```
 
 ## Issues i faced
-  Running my code, i kept running into "cannot open output file a.exe: Permission denied" errors
-  Started running my vscode as admin and fixed it
-  I still need to know why that error is
+  Running my code, i kept running into "cannot open output file a.exe: Permission denied" errors.
+  Started running my vscode as admin and fixed it. 
+  I still need to know why that error is. 
